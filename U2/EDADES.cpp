@@ -6,7 +6,8 @@ int main()
     int edad;
     cout << "Ingrese la edad a evaluar: " << endl;
     cin >> edad;
-    if (edad >= 1 && edad <= 150){
+    if (edad >= 1 && edad <= 150)
+    {
         if (edad > 0 && edad < 31){
             printf("Primera Edad");
         }else if (edad > 30 && edad < 61 ){
@@ -19,7 +20,8 @@ int main()
         
         
     }
-    else{
+    else
+    {
         printf("La edad es invalida");
     }
     
