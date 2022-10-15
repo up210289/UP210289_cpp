@@ -50,6 +50,7 @@ int main()
     return 0;
 }
 ```
+## **Resultado**
 
 <center>
 
@@ -93,7 +94,7 @@ int main()
     return 0;
 }
 ```  
-
+## **Resultado**
 <center>
 
 ![Alt TiposdeDatos](Imagenes/../../Imagenes/programa3_u1.png)
@@ -131,7 +132,7 @@ int main()
     return 0;
 }
 ```
-
+## **Resultado**
 <center>
 
 ![Alt Ciclos](Imagenes/../../Imagenes/programa4_u1.png)
@@ -170,9 +171,23 @@ int main()
     
 
     return 0;
-}
 ```
-
 <center>
 
-![Alt Edades](Imagenes/../../Imagenes/)
+## ***Resultado 1***
+
+![Alt Edades1](Imagenes/../../Imagenes/programa5_u1_result1.png)
+
+## ***Resultado 2***
+
+![Alt Edades2](Imagenes/../../Imagenes/programa5_u1_result2.png)
+
+## ***Resultado 3***
+
+![Alt Edades3](Imagenes/../../Imagenes/programa5_u1_result3.png)
+
+## ***Resultado 4***
+
+![Alt Edades4](Imagenes/../../Imagenes/programa5_u1_result4.png)
+
+</center>
