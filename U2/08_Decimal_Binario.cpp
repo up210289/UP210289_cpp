@@ -13,19 +13,23 @@ int main()
     {
         if (D % 2 >0)
         {
-            B = B +  '1';
+            B = '1' + B;
             D = D/2;
-            floor(D);       
+            floor(D);   
+              
         }else
         {
-            B = B +'0';
+            B = '0' + B;
             D = D / 2;
-            floor(n);
+            floor(D);
+            
+            
         }
-    cout << endl
-        
+    
+       
         
     }
+    cout<< B << endl;
     
 
     return 0;

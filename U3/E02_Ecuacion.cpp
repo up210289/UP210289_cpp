@@ -22,15 +22,10 @@ double Ecuacion2(double x)
 int main()
 {
     float Ec2;
-    for (int i = 0; i<= 10; i++)
-    {
-        Ec2=Ecuacion2(i);
-        cout << "x = " << i << " Result de ecuacion  = "<< Ec2 << endl;
-    }
-    
+    x = Ec2()
     
 }   
-/*int main()
+int main()
 {
     int n = 10;
     int Ec;
@@ -42,5 +37,4 @@ int main()
 
     
 }   
-*/
 

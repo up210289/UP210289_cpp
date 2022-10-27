@@ -7,7 +7,7 @@ int main()
     {
         cout << "Ingrese el costo de su renta:  " << endl;
         cin >> PR;
-        if (PR> 10000)
+        if (PR<=10000)
         {
             cout<<"Tu impuesto es de 5%" << endl;
         }else if (PR<=20000)
