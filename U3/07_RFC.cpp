@@ -11,11 +11,11 @@ int main()
     string Nacimiento;
     string RFC;
 
-    cout << "Cual es tu apellido paterno? " << endl;
+    cout << "Cual es tu apellido paterno? (MAYUSCULAS) " << endl;
     cin >> ApellidoP;
-    cout << "Cual es tu apellido materno? " << endl;
+    cout << "Cual es tu apellido materno? (MAYUSCULAS) " << endl;
     cin >> ApellidoM;
-    cout << "Cual es tu primer nombre? " << endl;
+    cout << "Cual es tu primer nombre? (MAYUSCULAS) " << endl;
     cin >> PrimerNombre;
     cout << "Cuando es tu cumpleaños? (Escribirlo todo junto, sin omitir los ceros \nEjemplo: \n03012003 "<< endl;
     cin >> Nacimiento;
