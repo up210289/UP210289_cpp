@@ -1,6 +1,6 @@
 #include<iostream>
 #include<cmath>
-#include"Libro.h"
+
 using namespace std;
 
 bool esBisiesto(int year)
