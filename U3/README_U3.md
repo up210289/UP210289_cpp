@@ -22,9 +22,9 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 
 
-![Alt Rentas](../Imagenes/RENTA.png)
+![Alt Ecuacion](../Imagenes/Unidad3/01_Ecuacion.png)
 
-## 02_[Nivel_Empleado](https://github.com/up210289/UP210289_cpp/blob/main/U2/02_Nivel_empleado.cpp)(Codigo)
+## 02_[Año bisiesto](https://github.com/up210289/UP210289_cpp/blob/main/U3/02_A%C3%B1o_Bisisesto.cpp)(Codigo)
 
 
 
@@ -32,47 +32,58 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 
 
-![Alt Nivel_Empleados](../Imagenes/Nivel_de_empleado.png)
-
-## 03_[SalaJuegosNiños](https://github.com/up210289/UP210289_cpp/blob/main/U2/03_SalaJuegosNinos.cpp)(Codigo)
+![Alt Año bisiesto](../Imagenes/Unidad3/02_AnoBi.png)
 
 
-<h2>Resultado</h2>
-
-
-![Alt Sala_de_juegos](../Imagenes/SalaJuegosNi%C3%B1os.png)
-
-## 04_[Pizza](https://github.com/up210289/UP210289_cpp/blob/main/U2/04_Pizza.cpp)(Codigo)
+## 04_[Desviacion estandar](https://github.com/up210289/UP210289_cpp/blob/main/U3/04_Desviasion_estandar.cpp)(Codigo)
 
 
 <h2>Resultado</h2>
 
 
-![Alt Pizza](../Imagenes/pizza1.png)
-![Alt Pizza2](../Imagenes/pizza2.png)
-
-## 05_[Temperaturas](https://github.com/up210289/UP210289_cpp/blob/main/U2/05_temperaturas.cpp)(Codigo)
+![Alt Pizza](../Imagenes/Unidad3/04_DEstandar.png)
 
 
-<h2>Resultado</h2>
-
-
-![Alt Temperatura](../Imagenes/temperatura.png)
-
-## 06_[Despensa](https://github.com/up210289/UP210289_cpp/blob/main/U2/06_Despensa.cpp)(Codigo)
+## 05_[Desgloce de moneda](https://github.com/up210289/UP210289_cpp/blob/main/U2/05_temperaturas.cpp)(Codigo)
 
 
 <h2>Resultado</h2>
 
 
-![Alt Despensa](../Imagenes/Despensa.png)
+![Alt Desgloce](../Imagenes/Unidad3/05_Desgloce.png)
 
-## 08_[Decimal_a_Binario](https://github.com/up210289/UP210289_cpp/blob/main/U2/08_Decimal_Binario.cpp)(Click en titulo para ver el codigo)
+## 06_[Entero a Romano](https://github.com/up210289/UP210289_cpp/blob/main/U3/05_Desglose_de_moneda.cpp)(Codigo)
 
 
 <h2>Resultado</h2>
 
 
-![Alt Deciam_a_binario](../Imagenes/Decima_a_binario.png)
+![Alt Despensa](../Imagenes/Unidad3/06_EntaRom.png)
+
+## 07_[RFC](https://github.com/up210289/UP210289_cpp/blob/main/U3/07_RFC.cpp)(Codigo)
+
+
+<h2>Resultado</h2>
+
+
+![Alt RFC](../Imagenes/Unidad3/07_RFC.png)
+
+## 08_[Vector ordenado](https://github.com/up210289/UP210289_cpp/blob/main/U2/08_Decimal_Binario.cpp)(Click en titulo para ver el codigo)
+
+
+<h2>Resultado</h2>
+
+
+![Alt Deciam_a_binario](../Imagenes/Unidad3/08_ALGORITMOUSADO.png)
+![Alt Deciam_a_binario](../Imagenes/Unidad3/08_VECTORAS.png)
+
+## 09_[Recursiva](https://github.com/up210289/UP210289_cpp/blob/main/U3/09_Recursiva.cpp)(Click en titulo para ver el codigo)
+
+
+<h2>Resultado</h2>
+
+
+![Alt Deciam_a_binario](../Imagenes/Unidad3/09_Recursiva.png)
+
 
 </center>
