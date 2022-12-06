@@ -44,7 +44,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 ![Alt Pizza](../Imagenes/Unidad3/04_DEstandar.png)
 
 
-## 05_[Desgloce de moneda](https://github.com/up210289/UP210289_cpp/blob/main/U2/05_temperaturas.cpp)(Click in tittle to see the code)
+## 05_[Desgloce de moneda](https://github.com/up210289/UP210289_cpp/blob/main/U3/05_Desglose_de_moneda.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
@@ -52,7 +52,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 ![Alt Desgloce](../Imagenes/Unidad3/05_Desgloce.png)
 
-## 06_[Entero a Romano](https://github.com/up210289/UP210289_cpp/blob/main/U3/05_Desglose_de_moneda.cpp)(Click in tittle to see the code)
+## 06_[Entero a Romano](https://github.com/up210289/UP210289_cpp/blob/main/U3/06_Entero_a_Romano.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
@@ -68,7 +68,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 ![Alt RFC](../Imagenes/Unidad3/07_RFC.png)
 
-## 08_[Vector ordenado](https://github.com/up210289/UP210289_cpp/blob/main/U2/08_Decimal_Binario.cpp)(Click in tittle to see the code)
+## 08_[Vector ordenado](https://github.com/up210289/UP210289_cpp/blob/main/U3/08_VECTOR_ORDENADO.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
