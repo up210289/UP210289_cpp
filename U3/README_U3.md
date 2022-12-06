@@ -15,7 +15,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 <center>
 
-## 01_  [Ecuacion](https://github.com/up210289/UP210289_cpp/blob/main/U3/01_Ecuacion.cpp) (Codigo)
+## 01_  [Ecuacion](https://github.com/up210289/UP210289_cpp/blob/main/U3/01_Ecuacion.cpp) (Click in tittle to see the code)
 
 
 <h2>Result</h2>
@@ -24,7 +24,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 ![Alt Ecuacion](../Imagenes/Unidad3/01_Ecuacion.png)
 
-## 02_[Año bisiesto](https://github.com/up210289/UP210289_cpp/blob/main/U3/02_A%C3%B1o_Bisisesto.cpp)(Codigo)
+## 02_[Año bisiesto](https://github.com/up210289/UP210289_cpp/blob/main/U3/02_A%C3%B1o_Bisisesto.cpp)(Click in tittle to see the code)
 
 
 
@@ -35,7 +35,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 ![Alt Año bisiesto](../Imagenes/Unidad3/02_AnoBi.png)
 
 
-## 04_[Desviacion estandar](https://github.com/up210289/UP210289_cpp/blob/main/U3/04_Desviasion_estandar.cpp)(Codigo)
+## 04_[Desviacion estandar](https://github.com/up210289/UP210289_cpp/blob/main/U3/04_Desviasion_estandar.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
@@ -44,7 +44,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 ![Alt Pizza](../Imagenes/Unidad3/04_DEstandar.png)
 
 
-## 05_[Desgloce de moneda](https://github.com/up210289/UP210289_cpp/blob/main/U2/05_temperaturas.cpp)(Codigo)
+## 05_[Desgloce de moneda](https://github.com/up210289/UP210289_cpp/blob/main/U2/05_temperaturas.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
@@ -52,7 +52,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 ![Alt Desgloce](../Imagenes/Unidad3/05_Desgloce.png)
 
-## 06_[Entero a Romano](https://github.com/up210289/UP210289_cpp/blob/main/U3/05_Desglose_de_moneda.cpp)(Codigo)
+## 06_[Entero a Romano](https://github.com/up210289/UP210289_cpp/blob/main/U3/05_Desglose_de_moneda.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
@@ -60,7 +60,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 ![Alt Despensa](../Imagenes/Unidad3/06_EntaRom.png)
 
-## 07_[RFC](https://github.com/up210289/UP210289_cpp/blob/main/U3/07_RFC.cpp)(Codigo)
+## 07_[RFC](https://github.com/up210289/UP210289_cpp/blob/main/U3/07_RFC.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
@@ -68,7 +68,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 ![Alt RFC](../Imagenes/Unidad3/07_RFC.png)
 
-## 08_[Vector ordenado](https://github.com/up210289/UP210289_cpp/blob/main/U2/08_Decimal_Binario.cpp)(Click en titulo para ver el codigo)
+## 08_[Vector ordenado](https://github.com/up210289/UP210289_cpp/blob/main/U2/08_Decimal_Binario.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
@@ -77,7 +77,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 ![Alt Deciam_a_binario](../Imagenes/Unidad3/08_ALGORITMOUSADO.png)
 ![Alt Deciam_a_binario](../Imagenes/Unidad3/08_VECTORAS.png)
 
-## 09_[Recursiva](https://github.com/up210289/UP210289_cpp/blob/main/U3/09_Recursiva.cpp)(Click en titulo para ver el codigo)
+## 09_[Recursiva](https://github.com/up210289/UP210289_cpp/blob/main/U3/09_Recursiva.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
