@@ -15,7 +15,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 <center>
 
-## 01_  [Biseccion](https://github.com/up210289/UP210289_cpp/blob/main/U3/01_Biseccion) (Click in tittle to see the code)
+## 01_  [Biseccion](https://github.com/up210289/UP210289_cpp/blob/main/U3/01_Biseccion.cpp) (Click in tittle to see the code)
 
 
 <h2>Result</h2>
