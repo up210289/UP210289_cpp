@@ -5,10 +5,11 @@ using namespace std;
 int main()
 {
     int NumDatos;
+    int arr[NumDatos];
+    int sumatoria=0;
+    double sum2 = 0.0;
     cout << "Cuantos datos son? " << endl;
     cin >> NumDatos;
-    
-    int arr[NumDatos];
     cout << "Ponga los datos de uno por uno en enteros" << endl;
 
     for(int i=0; i<NumDatos; i++)
@@ -16,14 +17,12 @@ int main()
         cin >> arr[i];
     }
 
-    int sumatoria=0;
     for (int i = 0; i < NumDatos; i++)
     {
         sumatoria = sumatoria + arr[i];
     }
     
     double media = (double) sumatoria/NumDatos;
-    double sum2 = 0.0;
 
     for (int i = 0; i < NumDatos; i++)
     {

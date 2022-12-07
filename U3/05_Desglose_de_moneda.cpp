@@ -2,7 +2,7 @@
 using namespace std;
 
 int mil=0,quinientos=0,docientos=0,cien=0,cincuenta=0,veinte=0,diez=0,cinco=0,dos=0,uno=0;
-int residuo,dindado;
+int residuo;
 
 int cambio(int billete, int dindado)
 {
@@ -13,12 +13,9 @@ int cambio(int billete, int dindado)
     return resultado;
 }
 
-int main()
+void change(int dinero)
 {
-    cout << "Que cantidad quiere desglosar? " << endl;
-    cin >> dindado;
-
-    mil= cambio(1000,dindado);
+    mil= cambio(1000,dinero);
     quinientos = cambio(500, residuo);
     docientos = cambio(200, residuo);
     cien = cambio(100, residuo);
@@ -28,7 +25,10 @@ int main()
     cinco = cambio(5, residuo);
     dos = cambio(2, residuo);
     uno = cambio(1, residuo);
+}
 
+void impdin()
+{
     cout << "Mil: " << mil << endl;
     cout << "Quinientos: " << quinientos << endl;
     cout << "Docientos: " << docientos << endl;
@@ -43,4 +43,14 @@ int main()
     cout << "Cinco: " << cinco << endl;
     cout << "Dos: " << dos << endl;
     cout << "Uno: " << uno << endl; 
+}
+
+int main()
+{
+    int dindado;
+    cout << "Que cantidad quiere desglosar? " << endl;
+    cin >> dindado;
+
+    change(dindado);
+    impdin();
 }
