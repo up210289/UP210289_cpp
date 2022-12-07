@@ -42,10 +42,10 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 
 
-![Alt Año coseno](../Imagenes/Unidad3/03_coseno.png)
+![Alt coseno](../Imagenes/Unidad3/03_coseno.png)
 
 
-## 04_[Desviacion estandar](https://github.com/up210289/UP210289_cpp/blob/main/U3/04_Desviasion_estandar)(Click in tittle to see the code)
+## 04_[Desviacion estandar](https://github.com/up210289/UP210289_cpp/blob/main/U3/04_Desviasion_estandar.cpp)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
