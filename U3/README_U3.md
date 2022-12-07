@@ -15,14 +15,14 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 <center>
 
-## 01_  [Ecuacion](https://github.com/up210289/UP210289_cpp/blob/main/U3/01_Ecuacion.cpp) (Click in tittle to see the code)
+## 01_  [Biseccion](https://github.com/up210289/UP210289_cpp/blob/main/U3/01_Biseccion) (Click in tittle to see the code)
 
 
 <h2>Result</h2>
 
 
 
-![Alt Ecuacion](../Imagenes/Unidad3/01_Ecuacion.png)
+![Alt Biseccion](../Imagenes/Unidad3/01_Biseccion.png)
 
 ## 02_[Año bisiesto](https://github.com/up210289/UP210289_cpp/blob/main/U3/02_A%C3%B1o_Bisisesto.cpp)(Click in tittle to see the code)
 
@@ -34,14 +34,24 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 ![Alt Año bisiesto](../Imagenes/Unidad3/02_AnoBi.png)
 
+## 03_[coseno](https://github.com/up210289/UP210289_cpp/blob/main/U3/03_coseno.cpp)(Click in tittle to see the code)
 
-## 04_[Desviacion estandar](https://github.com/up210289/UP210289_cpp/blob/main/U3/04_Desviasion_estandar.cpp)(Click in tittle to see the code)
+
+
+<h2>Result</h2>
+
+
+
+![Alt Año coseno](../Imagenes/Unidad3/03_coseno.png)
+
+
+## 04_[Desviacion estandar](https://github.com/up210289/UP210289_cpp/blob/main/U3/04_Desviasion_estandar)(Click in tittle to see the code)
 
 
 <h2>Resultado</h2>
 
 
-![Alt Pizza](../Imagenes/Unidad3/04_DEstandar.png)
+![Alt Desv](../Imagenes/Unidad3/04_DesviasionEst.png)
 
 
 ## 05_[Desgloce de moneda](https://github.com/up210289/UP210289_cpp/blob/main/U3/05_Desglose_de_moneda.cpp)(Click in tittle to see the code)
@@ -50,7 +60,7 @@ During the third unit we begin to learn about functions and procedures, apart fr
 <h2>Resultado</h2>
 
 
-![Alt Desgloce](../Imagenes/Unidad3/05_Desgloce.png)
+![Alt Desgloce](../Imagenes/Unidad3/05_DesgloceM.png)
 
 ## 06_[Entero a Romano](https://github.com/up210289/UP210289_cpp/blob/main/U3/06_Entero_a_Romano.cpp)(Click in tittle to see the code)
 
@@ -73,8 +83,8 @@ During the third unit we begin to learn about functions and procedures, apart fr
 
 <h2>Resultado</h2>
 
-
 ![Alt Deciam_a_binario](../Imagenes/Unidad3/08_ALGORITMOUSADO.png)
+
 ![Alt Deciam_a_binario](../Imagenes/Unidad3/08_VECTORAS.png)
 
 ## 09_[Recursiva](https://github.com/up210289/UP210289_cpp/blob/main/U3/09_Recursiva.cpp)(Click in tittle to see the code)

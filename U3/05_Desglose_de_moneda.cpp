@@ -38,11 +38,7 @@ void impdin()
     cout << "Diez: " << diez << endl;
     cout << "Cinco: " << cinco << endl;
     cout << "Dos: " << dos << endl;
-    cout << "Uno: " << uno << endl;  
-    cout << "Diez: " << diez << endl;
-    cout << "Cinco: " << cinco << endl;
-    cout << "Dos: " << dos << endl;
-    cout << "Uno: " << uno << endl; 
+    cout << "Uno: " << uno << endl;   
 }
 
 int main()
