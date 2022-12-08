@@ -3,8 +3,6 @@
 ---
 # UP210289
 # UP210342
-> Student of the Universidad Politecnica de Aguascalientes  
-> Coputer Ingeniering
 ---
 In this unit we worked in a game called "Connect 4" made with C++.
 ---
