@@ -1,0 +1,15 @@
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/bin/Debug/net7.0/MyApp
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/bin/Debug/net7.0/MyApp.deps.json
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/bin/Debug/net7.0/MyApp.runtimeconfig.json
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/bin/Debug/net7.0/MyApp.dll
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/bin/Debug/net7.0/MyApp.pdb
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.csproj.AssemblyReference.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfoInputs.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.AssemblyInfo.cs
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.csproj.CoreCompileInputs.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.dll
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/refint/MyApp.dll
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.pdb
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/MyApp.genruntimeconfig.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/MyApp/obj/Debug/net7.0/ref/MyApp.dll

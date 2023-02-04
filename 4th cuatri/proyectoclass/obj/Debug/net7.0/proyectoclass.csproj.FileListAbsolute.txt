@@ -1,0 +1,15 @@
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.csproj.AssemblyReference.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.GeneratedMSBuildEditorConfig.editorconfig
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.AssemblyInfoInputs.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.AssemblyInfo.cs
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.csproj.CoreCompileInputs.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/bin/Debug/net7.0/proyectoclass
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/bin/Debug/net7.0/proyectoclass.deps.json
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/bin/Debug/net7.0/proyectoclass.runtimeconfig.json
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/bin/Debug/net7.0/proyectoclass.dll
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/bin/Debug/net7.0/proyectoclass.pdb
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.dll
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/refint/proyectoclass.dll
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.pdb
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/proyectoclass.genruntimeconfig.cache
+/home/brochela/Desktop/up210289/UP210289_cpp/4th cuatri/proyectoclass/obj/Debug/net7.0/ref/proyectoclass.dll
